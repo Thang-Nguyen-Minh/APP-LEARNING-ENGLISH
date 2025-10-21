@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+.gradle/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (Firebase)
+google-services.json
+
+# Log & Cache
+*.log
+
+# Android Profiling
+*.hprof
+
+# NDK
+obj/
+
+# Misc
+*.apk
+*.ap_
+*.aab
+output.json
